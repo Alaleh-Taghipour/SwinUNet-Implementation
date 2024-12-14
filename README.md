@@ -116,4 +116,7 @@ We greatly acknowledge the original work for inspiring this framework.
 
 ## License
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6505de6 (Add all project files and code)

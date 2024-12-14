@@ -1,0 +1,15 @@
+einops: 0.6.1
+matplotlib: 3.5.1
+medpy: 0.3.0
+numpy: 1.21.5
+opencv: 4.6.0
+scikit-image: 0.19.2
+scikit-learn: 1.2.2
+scipy: 1.7.3
+SimpleITK: 2.2.1
+timm: 0.5.4
+torch: 1.12.1+cu113
+torchvision: 0.13.1+cu113
+PyYAML: 6.0
+ml_collections: 0.1.1
+yacs: 0.1.8
