@@ -18,6 +18,11 @@ This project provides an implementation of a segmentation framework leveraging S
 - **Data Augmentation**: Includes flipping and affine transformations for robust training.
 - **Easy Integration**: Designed for flexible integration with existing pipelines.
 
+## Pretrained Model
+The pretrained Swin-Tiny model `swin_tiny_patch4_window7_224.pth` is required to run this implementation. However, due to GitHub's file size limitations, the file is not included in this repository.
+Place the downloaded file in the following directory:
+pretrained_ckpt/swin_tiny_patch4_window7_224.pth
+
 ## Repository Structure
 ### Key Files and Scripts
 1. **`SegDataset` (dataset_code.py)**
@@ -81,7 +86,7 @@ Organize your dataset in the following structure:
 3. **Testing**
    - Load the trained model and dataset for evaluation:
      ```bash
-     python test.py
+     python predict.py
      ```
 
 ### Example Output
