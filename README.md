@@ -3,7 +3,7 @@ Implementation of SwinUNet for HIFU image segmentation tasks
 
 This repository is an adaptation of the [HIFU_Segmentation](https://github.com/hosseinbv/HIFU_Segmentation) repository by hosseinbv, modified to work with specific datasets and tasks.
 
-Implementation of SwinUNet for HIFU image segmentation tasks
+
 
 
 This repository contains an implementation of **SwinUNet**, a hierarchical Transformer model for image segmentation tasks. The code has been adapted and updated to fit specific datasets and requirements for [Swin-Implementation for HIFU Images Segmentation].
